@@ -1,20 +1,17 @@
 ### krakinzlab
 #### Krakinzlab utilities
 
-| ------- | ------- | ------- | ------- | ------- |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+ 
 
-| **Krakinz** |  
-|-|
-| #hash.   -  [TRIAL LINK](http://domain.com) |  
-||
-| Vlkyre.  |
-||
-| Mizuki.  |
-||
-| Ultron.  |
-||
-| Mee6.    |
-|| 
-| Lab.     |
+| Item Code | Name | Values |
+| ------- | ------- | --------- |
+| 0000 | Krakinz | link |
+| 1111 | #Hash | link |
+| 2222 | Mizuki | link |
+| 3333 | Cortana | link|
+| 4444 | Mee6 | link |
+| 5555 | Vlkyre | link |
 
-| ------- | ------- | ------- | ------- | ------- |
+
+| ------- | ------- | ------- | ------- | ------- | ------- |
