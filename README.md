@@ -1,17 +1,10 @@
 ### krakinzlab
-#### Krakinzlab utilities
+#### https://Krakinzlab.com
 
-| ------- | ------- | ------- | ------- | ------- | ------- |
- 
-
-| Item Code | Name | Values |
-| ------- | ------- | --------- |
-| 0000 | Krakinz | link |
-| 1111 | #Hash | link |
-| 2222 | Mizuki | link |
-| 3333 | Cortana | link|
-| 4444 | Mee6 | link |
-| 5555 | Vlkyre | link |
+| ------- | ------- | ------- | ------- | ------- | ------- 
 
 
 | ------- | ------- | ------- | ------- | ------- | ------- |
+
+•|• KrakinzLab is a collection of common programming languages with purpose of dealing with Artificial Intelligence (AI) and Automation aiming to improve technology and better automation experience in the field of computer and internet. It all started as a single user GitHub account and now a great publisher of several open source APIs, web interactions and designer.
+•|• KrakinzLab ©2022 Inc | Krakinz
