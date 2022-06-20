@@ -1,7 +1,7 @@
 ### krakinzlab
 #### https://Krakinzlab.com
 
-Hosted By Amazon Web Service
+Hosted By Vercel Web Service
 #### https://vercel.app
 
 | ------- | ------- | ------- | ------- | ------- | ------- 
