@@ -2,7 +2,7 @@
 #### https://Krakinzlab.com
 
 Hosted By Amazon Web Service
-#### https://aws.amazon.com/
+#### https://vercel.app
 
 | ------- | ------- | ------- | ------- | ------- | ------- 
 
