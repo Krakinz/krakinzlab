@@ -1,6 +1,10 @@
 ### krakinzlab
 #### https://Krakinzlab.com
 
+Version 1 main branch
+
+Version 2 ported branch
+
 Hosted By Vercel Web Service
 #### https://vercel.app
 
