@@ -1,3 +1,4 @@
+// auto-krakinz script
 $(document).ready(function(){
 
   $('#menu').click(function(){
