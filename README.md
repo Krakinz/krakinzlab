@@ -1,6 +1,6 @@
 ### krakinzlab
-#### https://Krakinzlab.com
-
+#### https://Krakinzlab.c 
+#### preview 1 https://krakinzlab-dmfgfl2zy-krakinz.vercel.app/
 Hosted By Vercel Web Service
 #### https://vercel.app
 
